@@ -1,0 +1,10 @@
+virusmonitor.returnone.com.cn.virusmonitor.xposed.SmsMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.RunShell
+virusmonitor.returnone.com.cn.virusmonitor.xposed.SmsAbort
+virusmonitor.returnone.com.cn.virusmonitor.xposed.TelephonyManagerMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.HttpMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.FileMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.ContentResolverMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.PmMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.BookMarkMonitor
+virusmonitor.returnone.com.cn.virusmonitor.xposed.SocketMonitor
